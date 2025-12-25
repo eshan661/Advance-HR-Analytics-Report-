@@ -20,7 +20,7 @@ Excel : For Data cleaning and Filtering.
 
 # Sources
 ### Dataset:
-Sample -data model.xlsx [Download Here]([https://microsoft.com](https://github.com/eshan661/Advance-HR-Analytics-Report-/blob/main/data%20model.xlsx)
+Sample -data model.xlsx [Download Here](https://github.com/eshan661/Advance-HR-Analytics-Report-/blob/main/data%20model.xlsx)
 
 ### Dashboard:
 Includes all filters, slicers and visualizations.
