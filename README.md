@@ -20,7 +20,7 @@ Excel : For Data cleaning and Filtering.
 
 # Sources
 ### Dataset:
-Sample -Data model.xlsx [Download Here](https://microsoft.com)
+Sample -data model.xlsx [Download Here](https://microsoft.com)
 
 ### Dashboard:
 Includes all filters, slicers and visualizations.
